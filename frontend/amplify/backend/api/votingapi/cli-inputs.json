@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "paths": {
+    "/polls": {
+      "name": "/polls",
+      "lambdaFunction": "votingsystema30b107a",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update"
+        ]
+      }
+    }
+  }
+}
