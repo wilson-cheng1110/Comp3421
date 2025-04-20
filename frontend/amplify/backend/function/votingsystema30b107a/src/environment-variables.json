@@ -1,4 +1,0 @@
-{
-  "POLLS_TABLE": "polls-${env}",
-  "VOTES_TABLE": "votes-${env}"
-} 
